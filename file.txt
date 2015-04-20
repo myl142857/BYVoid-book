@@ -1,0 +1,5 @@
+----
+运行的结果如下：
+end.
+Contents of the file.
+----
