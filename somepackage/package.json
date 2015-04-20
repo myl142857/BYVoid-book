@@ -1,4 +1,11 @@
 {
   "name": "somepackage",
-  "main" : "./lib/interface.js"
+  "version": "1.0.0",
+  "description": "using npm init",
+  "main": "lib/interface.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
