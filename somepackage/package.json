@@ -1,5 +1,5 @@
 {
-  "name": "somepackage",
+  "name": "myl142857-somepackage",
   "version": "1.0.0",
   "description": "using npm init",
   "main": "lib/interface.js",
